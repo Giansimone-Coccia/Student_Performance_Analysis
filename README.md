@@ -1,5 +1,7 @@
 # Student Performance Analysis
 
+![Logo progetto](Docs/student_dataset-cover.jpg)
+
 ## Introduction
 
 The academic performance of students is influenced by a combination of personal, social, and academic factors. Understanding these dynamics can help educators and institutions adopt targeted strategies to improve academic outcomes and student well-being. This project aims to analyze a dataset containing information on student grades and other potentially influencing factors, such as age, parental support, extracurricular activities, and absences.
