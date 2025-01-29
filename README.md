@@ -59,3 +59,11 @@ The dataset contains comprehensive information on 2,392 high school students, de
   - 2: 'C' (2.5 <= GPA < 3.0)
   - 3: 'D' (2.0 <= GPA < 2.5)
   - 4: 'F' (GPA < 2.0)
+
+### Note
+The files classificazione_with_GPA, classificazione_noGPA, and classificazione_noGPA_noABS contain, respectively, the classification performed using all features, the classification without the GPA feature, and the classification without the GPA and Absences features. We believe that including the GPA feature in the classification process is not meaningful, as it represents a continuous value directly correlated with the GradeClass variable, which is the classification class.
+
+## Contributors
+Luca Bellante
+Giansimone Coccia
+Laura Ferretti
